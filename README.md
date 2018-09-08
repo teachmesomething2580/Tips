@@ -131,3 +131,5 @@ Web Programming School 교육과정
 - JavaScript, XMLHttpRequest
 - axios, jQuery
 - Facebook Login with Front-end
+
+## Testing Git Auto Script
